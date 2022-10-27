@@ -1,0 +1,3 @@
+C:\Users\Victus\Desktop\ОАиП лабы\LW4Task1\x64\Debug\LW4Task1.exe
+C:\Users\Victus\Desktop\ОАиП лабы\4\LW4Task1\x64\Debug\LW4Task1.exe
+C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW4Task1\x64\Debug\LW4Task1.exe

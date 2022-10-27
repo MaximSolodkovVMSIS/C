@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW4Task1\Source.c(4,1): warning C4005: max: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1282): message : см. предыдущее определение "max"
+C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW4Task1\Source.c(6,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LW4Task1.vcxproj -> C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW4Task1\x64\Debug\LW4Task1.exe
