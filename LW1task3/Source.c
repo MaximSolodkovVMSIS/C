@@ -2,7 +2,7 @@
 int main()
 {
 	float a, b;
-	printf("Enter the cordinates");
+	printf("Enter the cordinates ");
 	scanf_s("%f", &a);
 	scanf_s("%f", &b);
 	if (b < 0)

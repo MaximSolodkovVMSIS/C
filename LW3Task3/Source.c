@@ -1,14 +1,39 @@
-#include <stdio.h>        
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#define max 100
 int main()
 {
-    int n, cnt = 0, maxc = 0, maxel, arr[100]; //cnt - счетчик количества элементов с данным значением
-    //maxel - самый часто встречаемый элемент
+    srand(time(NULL));
+    int input,n, cnt = 0, maxc = 0, arr[100]; //cnt - счетчик количества элементов с данным значением
+    float maxel = 0.5;//maxel - самый часто встречаемый элемент
     //maxc - сколько раз встретился самый частый
-    printf("input size and elements\n");
-    scanf_s("%d", &n);//n-размер массива
-    for (int i = 0; i < n; i++) {
-        scanf_s("%d", &arr[i]);
+    //n-размер массива
+    printf("input size\n");
+    while (scanf_s("%d", &n) != 1 || n < 1 || n>100)
+    {
+        printf("Error\n");
+        rewind(stdin);
     }
+    printf("choose the way of input:1 for random, 2 for manual\n");
+    while (scanf_s("%d", &input) != 1 || (input != 1 && input != 2)) {
+        printf("Error\n");
+        rewind(stdin);
+    }
+    if (input == 2)
+        for (int i = 0; i < n; i++) {
+            printf("input %d element ", i + 1);
+            while (scanf_s("%d", &arr[i]) != 1)
+            {
+                printf("Error\n");
+                rewind(stdin);
+            }
+        }
+    else
+        for (int i = 0; i < n; i++) {
+            arr[i] = rand() % (max + 1) - max / 2;
+            printf("%d ", arr[i]);
+        }
     for (int i = 0; i < n; i++) {
         if (arr[i] % 2 == 0) {
             for (int k = i; k < n; k++) {
@@ -22,6 +47,10 @@ int main()
             cnt = 0;
         }
     }
-    printf("%d is the most frequently met even number", maxel);
+    printf("\n");
+    if(maxel==0.5)
+        printf("no even numbers found");
+    else
+        printf("%.0f is the most frequently met even number", maxel);
     return 0;
 }

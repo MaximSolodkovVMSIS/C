@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{917be1a6-4cf0-4c03-9f0c-1a0e07596ad7}</ProjectGuid>
+    <ProjectGuid>{0d6f2390-17b3-48dd-ab66-ed55d68808d4}</ProjectGuid>
     <RootNamespace>LW3Task1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

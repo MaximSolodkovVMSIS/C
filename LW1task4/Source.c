@@ -19,10 +19,19 @@ int main()
 		c = a * b;
 		break;
 	case 4:
-		c = a;
-		c = c / b;
+		if (b == 0)
+		{
+			printf("Error");
+			return 0;
+		} 
+		//c = a;
+		c = a / b;
 		break;
+	default: 
+		printf("No znak");
+		
 	}
+
 	printf("%.3f", c);
 	return 0;
 }
