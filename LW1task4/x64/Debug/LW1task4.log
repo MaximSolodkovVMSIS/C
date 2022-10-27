@@ -1,6 +1,0 @@
-﻿  Source.c
-C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW1task4\Source.c(13,9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW1task4\Source.c(16,9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW1task4\Source.c(19,9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW1task4\Source.c(28,9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  LW1task4.vcxproj -> C:\Users\Victus\Documents\GitHub\MaximSolodkov\LW1task4\x64\Debug\LW1task4.exe
