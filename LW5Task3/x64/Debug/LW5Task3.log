@@ -1,0 +1,5 @@
+﻿  Source.c
+  arrays.c
+C:\Users\Victus\Desktop\ОАиП лабы\5\LW5Task3\arrays.c(18,4): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+  LW5Task3.vcxproj -> C:\Users\Victus\Desktop\ОАиП лабы\5\LW5Task3\x64\Debug\LW5Task3.exe
