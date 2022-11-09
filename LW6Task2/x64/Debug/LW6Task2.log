@@ -1,0 +1,3 @@
+﻿  Functions.c
+C:\Users\Victus\Desktop\ОАиП лабы\6\LW6Task2\Functions.c(5,13): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+  LW6Task2.vcxproj -> C:\Users\Victus\Desktop\ОАиП лабы\6\LW6Task2\x64\Debug\LW6Task2.exe
