@@ -1,0 +1,7 @@
+﻿  function.c
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\1\LW1sem2\function.c(14,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\1\LW1sem2\function.c(61,31): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\1\LW1sem2\function.c(61,43): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\1\LW1sem2\function.c(163,17): warning C4098: delete: функция типа "void", возвращающая значение
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\1\LW1sem2\function.c(187): warning C4716: menu_content: должна возвращать значение
+  LW1sem2.vcxproj -> C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\1\LW1sem2\x64\Debug\LW1sem2.exe
