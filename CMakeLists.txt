@@ -3,4 +3,4 @@ project(MaximSolodkov C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(MaximSolodkov)
+add_executable(MaximSolodkov )
