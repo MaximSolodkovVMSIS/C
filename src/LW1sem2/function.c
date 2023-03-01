@@ -132,7 +132,7 @@ void sort(machine** array,const int* size) {
     default: 
         exit(0);
     }
-    output_machine(array, *size);
+    output_machine(array, size);
 }
 void sort_by_two_fields_at_the_same_time(machine** array, const int* size) {
     for (int i = 0; i < (*size) - 1; i++) {
@@ -144,7 +144,7 @@ void sort_by_two_fields_at_the_same_time(machine** array, const int* size) {
             }
         }
     }
-    output_machine(array, *size);
+    output_machine(array, size);
 }
 int pos_for_delete() {
     int pos;
@@ -165,7 +165,7 @@ void delete(machine** array, int* size) {
     }
     (*size)--;
     (*array) = (machine*)realloc((*array), (*size) * sizeof(machine));
-    output_machine(array, *size);
+    output_machine(array, size);
 }
 
 void input_machine(machine** array, int* size) {
