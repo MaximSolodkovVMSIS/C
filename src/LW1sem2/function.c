@@ -160,7 +160,7 @@ void delete(machine** array, int* size) {
     printf("Input machine for delete: ");
     pos = pos_for_delete();
     free((*array)[pos - 1].name);
-    for (int i = 0; i < (*size) - 1; i++) {
+    for (int i = pos - 1; i < (*size) - 1; i++) {
         (*array)[i] = (*array)[i + 1];
     }
     (*size)--;
