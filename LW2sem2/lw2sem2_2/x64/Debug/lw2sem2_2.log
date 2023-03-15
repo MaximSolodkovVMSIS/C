@@ -1,0 +1,19 @@
+﻿  function.c
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(12,39): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(34,27): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(51,29): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(66,55): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(66,72): warning C4028: формальный параметр 3 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(81,50): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(104,57): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(104,75): warning C4028: формальный параметр 3 отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(126,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(129,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(130,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(136,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(144,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(108,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\function.c(148,29): warning C4028: формальный параметр 1 отличается от объявления
+  main.c
+  Создание кода...
+  lw2sem2_2.vcxproj -> C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_2\x64\Debug\lw2sem2_2.exe

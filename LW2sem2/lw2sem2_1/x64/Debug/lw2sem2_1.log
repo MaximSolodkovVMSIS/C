@@ -1,0 +1,16 @@
+﻿  function.c
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(110,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(163,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(169,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(179,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(223,84): warning C4047: !=: "errno_t" отличается по уровням косвенного обращения от "void *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(224,11): warning C4098: words_for_dictionary: функция типа "void", возвращающая значение
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(305,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(308,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(309,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(315,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(323,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\function.c(290,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.c
+  Создание кода...
+  lw2sem2_1.vcxproj -> C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\2\LW2sem2\lw2sem2_1\x64\Debug\lw2sem2_1.exe
