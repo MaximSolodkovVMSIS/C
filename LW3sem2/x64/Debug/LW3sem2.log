@@ -1,0 +1,31 @@
+﻿  Source.c
+  function.c
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(61,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(79,21): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(80,22): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(81,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(83,64): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(84,65): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(85,63): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(91,66): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(92,67): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(93,65): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(100,91): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(102,51): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(104,21): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(105,22): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(114,75): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(115,76): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(116,74): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(118,25): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(159,77): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(160,78): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(161,76): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(165,92): warning C4133: функция: несовместимые типы - из "char *" в "FILE *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(259,46): warning C4133: функция: несовместимые типы - из "FILE *" в "char *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(259,59): warning C4133: функция: несовместимые типы - из "FILE *" в "char *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(273,43): warning C4133: функция: несовместимые типы - из "FILE *" в "char *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\function.c(273,56): warning C4133: функция: несовместимые типы - из "FILE *" в "char *"
+  Создание кода...
+  LW3sem2.vcxproj -> C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\3\LW3sem2\x64\Debug\LW3sem2.exe
