@@ -1,0 +1,20 @@
+﻿  function.c
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(26,20): warning C4477: "scanf_s": в строке форматирования "%c" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "size_t"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(26,20): message : этот аргумент используется в качестве размера буфера
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(26,59): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(36,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(85,24): warning C4133: функция: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(86,23): warning C4133: функция: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(114,39): warning C4133: функция: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(123,38): warning C4133: функция: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(100,1): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(150,41): warning C4133: =: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(151,47): warning C4133: =: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(154,40): warning C4133: =: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(155,48): warning C4133: =: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(130,1): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(176,43): warning C4133: функция: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(177,42): warning C4133: функция: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(197,49): warning C4133: =: несовместимые типы - из "node *" в "node *"
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\function.c(198,48): warning C4133: =: несовместимые типы - из "node *" в "node *"
+  LW4Sem2.vcxproj -> C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\4\LW4Sem2\x64\Debug\LW4Sem2.exe
