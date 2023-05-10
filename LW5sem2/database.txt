@@ -1,0 +1,7 @@
+lms.bsuir.by IN A 190.210.225.25
+lms2.bsuir.by IN CNAME lms.bsuir.by
+google.com IN A 192.220.112.34
+gmail.com IN CNAME google.com
+makson IN A 210.210.228.87
+http.site IN A 123.234.165.12
+asdfdasd IN A 123.123.123.23

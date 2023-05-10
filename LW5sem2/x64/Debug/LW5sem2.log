@@ -1,0 +1,7 @@
+﻿  function.c
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\5\LW5sem2\function.c(8,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\5\LW5sem2\function.c(116,39): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\5\LW5sem2\function.c(154,4): warning C4033: "search_in_cache" должен возвращать значение
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\5\LW5sem2\function.c(264,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\5\LW5sem2\function.c(171): warning C4715: search_in_cache: значение возвращается не при всех путях выполнения
+  LW5sem2.vcxproj -> C:\Users\Victus\OneDrive\Рабочий стол\ОАиП лабы\2 сем\5\LW5sem2\x64\Debug\LW5sem2.exe
