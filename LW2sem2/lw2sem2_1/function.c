@@ -221,7 +221,7 @@ void words_for_dictionary(Words** array, Dictionary** arr, int* size_of_words, i
 	int error = 0;
 
 	if ((error = fopen_s(&file, "C:\\programming\\C\\zipper\\source.txt", "r") != NULL)) {
-		return 1;
+		return;
 	}
 
 
