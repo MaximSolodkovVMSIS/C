@@ -148,7 +148,7 @@ int pos_for_delete() {
     }
     return pos;
 }
-void delete(machine** array, int* size) {
+char* delete(machine** array, int* size) {
     int pos = 0;
     printf("Input machine for delete: ");
     pos = pos_for_delete();
